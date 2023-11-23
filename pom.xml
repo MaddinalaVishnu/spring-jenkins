@@ -46,6 +46,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>cicd-integration</finalName>
 	</build>
 
 </project>
